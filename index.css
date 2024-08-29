@@ -1,0 +1,13 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* outline: 1px dashed #171717; */
+    font-family: ubuntu;
+}
+
+.thin_border
+{
+    border: 1px solid #171717;
+}
